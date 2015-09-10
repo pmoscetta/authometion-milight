@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map for Authometion MiLight Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MiLight KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initialize 	KEYWORD2
+setRadioTransmission	KEYWORD2
+setDefaultRadioTransmission KEYWORD2
+RGBWAndWhiteSendCommand	KEYWORD2
+RGBWOn	KEYWORD2
+WhiteOn	KEYWORD2
+RGBWOff	KEYWORD2
+WhiteOff	KEYWORD2
+RGBWSetMaxWhiteValue	KEYWORD2
+WhiteSetMaxWhiteValue	KEYWORD2
+RGBWSetAddress	KEYWORD2
+WhiteSetAddress	KEYWORD2
+RGBWClearAddress	KEYWORD2
+WhiteClearAddress	KEYWORD2
+RGBWSetRGBValue	KEYWORD2
+WhiteSetTemperatureValue	KEYWORD2
+WhiteSetBrightnessValue	KEYWORD2    
+WhiteActiveNightMode	KEYWORD2
+RGBWSetBrightnessValue	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
