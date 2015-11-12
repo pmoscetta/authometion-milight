@@ -158,8 +158,8 @@ void messageVirt()
     
     Serial.println("RGB!");
   }
-  // ACTIVE NIGHT MODE: NIM,ADDA,ADDB,COL
-  else if (ser_HW.checkString("RGB"))
+  // ACTIVE NIGHT MODE: NIM,ADDA,ADDB
+  else if (ser_HW.checkString("NIM"))
   {
     ADDR_A=ser_HW.readInt();
     ADDR_B=ser_HW.readInt();
